@@ -1,5 +1,5 @@
 // API Key
-const API_KEY = "168771779c71f3d64106d8a88376808a";
+const API_KEY = "5f3a1fc0dd810c96ac1dbc8348805fc4";
 
 // Tab Switching 
 const userTab = document.querySelector("[data-userWeather]");
